@@ -1,0 +1,10 @@
+{
+  "ConnectionStrings": {
+    "NorthwindMdf": "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\sheet\\source\\repos\\A2Moses\\A2Moses\\AppData\\NorthWind.mdf;Integrated Security=True",
+
+    "NorthwindLocal": "Data Source=(LocalDB)\\MSSQLLocalDB;Initial Catalog=NorthWindDB;Integrated Security=True",
+
+    "NorthwindSqlServer": "Server=.\\sqlexpress;Database=Northwind;Trusted_Connection=Yes;"
+
+  }
+}
